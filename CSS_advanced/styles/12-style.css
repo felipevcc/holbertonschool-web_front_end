@@ -1,4 +1,4 @@
-:root{
+:root {
     /* Colors */
     --color-primary: #d73953;
     --color-black: #090909;
@@ -69,7 +69,7 @@ a {
     text-align: var(--section-header-align);
 }
 
-.section-title{
+.section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
